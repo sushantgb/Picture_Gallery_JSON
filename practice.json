@@ -1,0 +1,79 @@
+{
+    "gallery":[
+        {
+            "url":"fan1.jpg",
+            "title":"Heaven Of Mind",
+            "serial":"1"
+        },
+        {
+            "url":"fan2.jpg",
+            "title":"Wonder Jungle",
+            "serial":"2"
+        },
+        {
+            "url":"fan3.jpg",
+            "title":"Dragon Mother",
+            "serial":"3"
+        },
+        {
+            "url":"fan4.jpg",
+            "title":"Gloomy Woods",
+            "serial":"4"
+        },
+        {
+            "url":"fan5.jpg",
+            "title":"Sword Goddess",
+            "serial":"5"
+        },
+        {
+            "url":"fan6.webp",
+            "title":"Sea Galaxy",
+            "serial":"6"
+        },
+        {
+            "url":"fan7.jpg",
+            "title":"Wolf Soul",
+            "serial":"7"
+        },
+        {
+            "url":"fan8.jpg",
+            "title":"Garden Goddess",
+            "serial":"8"
+        },
+        {
+            "url":"fan9.jpg",
+            "title":"Samurai",
+            "serial":"9"
+        },
+        {
+            "url":"fan10.jpg",
+            "title":"Shooter",
+            "serial":"10"
+        },
+        {
+            "url":"fan11.jpg",
+            "title":"Calm Dawn",
+            "serial":"11"
+        },
+        {
+            "url":"fan12.jpg",
+            "title":"Into The Bulb",
+            "serial":"12"
+        },
+        {
+            "url":"fan13.jpg",
+            "title":"Dragon Princess",
+            "serial":"13"
+        },
+        {
+            "url":"fan14.png",
+            "title":"Hood Warrior",
+            "serial":"14"
+        },
+        {
+            "url":"fan15.jpg",
+            "title":"Sepheroth",
+            "serial":"15"
+        }
+    ]
+}
